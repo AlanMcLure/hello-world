@@ -1,2 +1,5 @@
 # hello-world
-First repository
+
+Hello guys!
+
+I'm here to learn to code.
